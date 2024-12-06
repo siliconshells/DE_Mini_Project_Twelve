@@ -1,5 +1,8 @@
 #devops
-#pytest-cov==4.0.0
+ruff==0.8.2
 black==22.3.0
 pytest==7.4.0
 pylint==2.15.3
+flask == 2.2.5
+python-dotenv==1.0.1
+requests==2.32.3
